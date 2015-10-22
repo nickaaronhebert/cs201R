@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="Resume.css"/>
+		<title></title>
+		<style>
+		    #img1{
+		        height: 150px;
+		        width: 150px;
+		        margin-top: -3px;
+		    }
+		    img{
+		        height: 100px;
+		        width: 250px;
+		    }
+		    #sidebar {
+		        font-size: 12px;
+		    }
+		    #right4{
+		        height: 400px;
+		        text-align: center;
+		        background-color:gray;
+		        margin-right: 50px;
+		        width; 300 px;
+		        position: relative;
+		        float: right;
+		        clear: both;
+		        border: 1px solid black;
+		    }
+		    #recommendation-text {
+		        line-height: 40%;
+		    }
+		</style>
+	</head>
+	<body>
+	<div id = "header">
+	<h1> Nick Hebert's Resume</h1>
+	</div>
+	<div class = "left">
+		<h3>Quick Links</h3>
+	    <ul> 
+	    <a href = "http://unkka619b286.nickhebert.koding.io/Resume/Projects">
+	        <li>Projects</li>
+	    </a>
+	    <a href = "http://unkka619b286.nickhebert.koding.io/Resume/Pictures">
+	        <li>Pictures</li>
+	    </a>
+	    <a href = "http://unkka619b286.nickhebert.koding.io/Resume/Favorite_Websites">
+	        <li>Favorite Websites</li>
+	    </a>
+	    	
+	    </ul>
+	    <h3>Contact Info</h3>
+	    <p>Nick Hebert</p>
+	    <p id = "sidebar">Phone: (801)987-6547</p>
+	    <p id = "sidebar">Address: 321 Wymount Terrace</p>
+	    <p id = "sidebar">Email: NickH@ienetwork.com</p>
+	    <p>
+                    Email Me:</p>
+                    <p>
+                    <a href="mailto:someone@example.com?Subject=Reccomendation-%20Nick_Hebert" target="_top">Send Mail</a>
+                    </p>
+	    
+	</div>
+	<div class = "right">
+			<h4>Objective</h4>
+			<div>
+                    <div id = "form">
+                    	<h2>Want to Employ Me?</h2>
+                    	<div id = "textinForm">
+                    	<form>
+                      First name:<br>
+                      <input type="text" name="firstname">
+                      <br>
+                      Last name:<br>
+                      <input type="text" name="lastname">
+                      <br>
+                      <div id="imgInForm">
+                          <img id = "img2" src = "http://4.bp.blogspot.com/-UWYue4NGOHM/VOxkVCxzhaI/AAAAAAAAAg4/HaqfrlizJlc/s0-c/work.png">
+                      </div>
+                      Organization <br>
+                      <input type="text" name="address">
+                      <br>
+                      Contact Person: <br>
+                      <input type = "text" name="referred_by">
+                      <br>
+                      <input type="submit" value="Submit">
+                    </form>
+                    </div>
+                    </div>
+			</div>
+			<p>To pursue career opportunities that will enhance my abilities as a software programmer.</p>
+			<h4>Experience</h4>
+			<p>Junior Developer, Insurance Experts Network (2015 - Present)</p>
+			
+            	
+			<ul>
+				<li>Designed a database of in-depth rate tables and created calculation algorithms in order to produce n accurate quoting experience for users.</li>
+				<li>Conducted regular auditing of insurance carrier's rates and created automated auditing tools to enhance efficiency in testing.</li>
+				<li>Worked with several Fortune 500 companies in order to provide their rates on our platform.</li>
+			</ul>
+			<p>ESL Hirinng Director, Integrity Staffing (2014 - 2015)</p>
+			
+            	
+			<ul>
+				<li>Developed systems in order to reach out into the Hispanic community in order to hire for Amazon</li>
+				<li>Hired over 150 Hispanic citizens to work during a three month period.</li>
+			</ul>
+			
+            	
+			<h4>Skills</h4>
+			<div id = "right4">
+			 <h1>Recommendation Emails</h1>
+                	<img src = "http://blog.ienetwork.com/wp-content/uploads/2015/06/IENetwork-Hori-Logo.png">
+                	<p id = "recommendation-text">Recommendation-Nate Collins</p>
+                	<p  id = "recommendation-text">
+                    Email Nate Collins:
+                    <a href="mailto:someone@example.com?Subject=Reccomendation-%20Nick_Hebert" target="_top">Send Mail</a>
+                    </p>
+                	<img class = "img1" src = "https://www.thinkiba.com/wp-content/uploads/2014/12/Integrity-Staffing-Solution-Logo-and-Tagline-Opportunity-Color-Stacked-01.png">
+            	    <p id = "recommendation-text">Recommendation-Karen White</p>
+                	<p id = "recommendation-text">
+                    Email Karen White:
+                    <a href="mailto:someone@example.com?Subject=Reccomendation-%20Nick_Hebert" target="_top">Send Mail</a>
+                    </p>
+                    <br><br>
+                    </div>
+			
+			<p>Languages: C++, Ruby, HTML, CSS</p>
+			<h4>Education</h4>
+		
+			<a href = "https://byu.edu">
+			<img id = "img1" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BYU_Medallion_Logo.svg/2000px-BYU_Medallion_Logo.svg.png">    
+			</a>
+			<p>BS, Computer Science, Brigham Young University</p>
+		
+			<ul>
+				<li>GPA: 3.8</li>
+			</ul>
+			</div>
+	<div id = "footer">
+	</div>
+	
+	</body>
+</html>

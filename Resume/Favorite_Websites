@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+		<style>
+		    
+		</style>
+	</head>
+	<body>
+	<h1>Favorite Websites</h1>
+	<ul>
+	    <li>
+	        <a href = "https://lds.org">
+	            <h6> Lds.org </h6>
+	        </a>
+	    </li>
+	     <li>
+	        <a href = "https://espn.org">
+	            <h6> ESPN.com </h6>
+	        </a>
+	    </li>
+	</ul>
+		<div>
+                    
+                    	<div id = "form">
+                    	<h2>Want to Employ Me?</h2>
+                    	<div id = "textinForm">
+                    	<form>
+                      First name:<br>
+                      <input type="text" name="firstname">
+                      <br>
+                      Last name:<br>
+                      <input type="text" name="lastname">
+                      <br>
+                      <div id="imgInForm">
+                          <img id = "img2" src = "http://4.bp.blogspot.com/-UWYue4NGOHM/VOxkVCxzhaI/AAAAAAAAAg4/HaqfrlizJlc/s0-c/work.png">
+                      </div>
+                      Organization <br>
+                      <input type="text" name="address">
+                      <br>
+                      Contact Person: <br>
+                      <input type = "text" name="referred_by">
+                      <br>
+                      <input type="submit" value="Submit">
+                    </form>
+                    </div>
+                    </div>
+            	</div>
+
+	</body>

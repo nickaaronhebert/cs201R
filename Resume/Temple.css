@@ -1,0 +1,35 @@
+img {
+	width:200px;
+	height:200px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+table, td {
+	border: 1px #70b8ff solid;
+}
+
+
+
+
+
+	<div class = "right2">
+				<h1>Recommendation Emails</h1>
+                	<img src = "http://blog.ienetwork.com/wp-content/uploads/2015/06/IENetwork-Hori-Logo.png">
+                	<p>Recommendation-Nate Collins</p>
+                	<p>
+                    Email Nate Collins:
+                    <a href="mailto:someone@example.com?Subject=Reccomendation-%20Nick_Hebert" target="_top">Send Mail</a>
+                    </p>
+            	</div>
+            	
+            	
+            		<div class = "right3">
+                	<img class = "img1" src = "https://www.thinkiba.com/wp-content/uploads/2014/12/Integrity-Staffing-Solution-Logo-and-Tagline-Opportunity-Color-Stacked-01.png">
+            	    <p>Recommendation-Karen White</p>
+                	<p>
+                    Email Karen White:
+                    <a href="mailto:someone@example.com?Subject=Reccomendation-%20Nick_Hebert" target="_top">Send Mail</a>
+                    </p>
+                    <br><br>
+                    </div>
